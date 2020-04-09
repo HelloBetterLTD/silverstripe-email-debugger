@@ -2,21 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcb0e3f8-c9a5-4814-af28-97e65a103f58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/_config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_config/extensions.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/code/Email/SSMailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/code/extensions/EmailDebuggerExtension.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/silverstripe-email-debugger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config/extensions.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Email/SSMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/extensions/EmailDebuggerExtension.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mergesources.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.properties.default" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog-definitions.default" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependent-modules.default" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install-frameworkmissing.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/install.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/.htaccess" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/_config.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/code/Page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.mssql.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.postgresql.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.sqlite3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.xml.dist" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/reports" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/siteconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/simple" beforeDir="false" afterPath="$PROJECT_DIR$/themes/simple" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/simple/templates/Layout/Page.ss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/simple/templates/Layout/Page.ss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simple" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/blueback.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/body_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_left_on.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_right_on.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu2_arrow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/ss_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/ss_watermark.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/treeicons/home-file.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/treeicons/news-file.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/treeicons/search-file.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/welcome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tutorial/templates/Page.ss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/CreateChangelog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/FindRepositoriesTask.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/GitStashTask.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/LoadModulesTask.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/SilverStripeBuildTask.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/UpdateTranslationsTask.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/_manifest_exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/lib/new-project.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/lib/sources.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/lib/template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/lib/tools.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/new-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/new-project.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/versions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.config" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,29 +86,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_ss_environment.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/_config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/code/Email/SSMailer.php">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
-              <caret line="98" column="39" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="39" />
+            <state relative-caret-position="68">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -81,7 +120,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/mysite/_config/config.yml" />
         <option value="$PROJECT_DIR$/mysite/code/extensions/EmailDebuggerExtension.php" />
         <option value="$PROJECT_DIR$/themes/simple/templates/Layout/Page.ss" />
@@ -101,23 +139,9 @@
         <option value="$PROJECT_DIR$/test/code/Email/SSMailer.php" />
         <option value="$PROJECT_DIR$/mysite/code/Page.php" />
         <option value="$PROJECT_DIR$/logs/email.log" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
-    <include_path>
-      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
-      <path value="$PROJECT_DIR$/vendor/mustangostang/spyc" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
-    </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="18" />
@@ -141,31 +165,17 @@
             <path>
               <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
               <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="_config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
               <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="Email" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
               <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="extensions" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -217,17 +227,17 @@
       <option name="presentableId" value="Default" />
       <updated>1586408741705</updated>
       <workItem from="1586408744072" duration="13668000" />
-      <workItem from="1586430933917" duration="3570000" />
+      <workItem from="1586430933917" duration="3886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17238000" />
+    <option name="totallyTimeSpent" value="17554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25359577" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25359577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,7 +250,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.21931261" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.7332242" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -286,13 +296,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -442,6 +445,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1581">
           <caret line="98" column="39" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
