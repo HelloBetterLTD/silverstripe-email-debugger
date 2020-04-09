@@ -1,14 +1,21 @@
 {
-	"name": "silverstripe/installer",
-	"description": "The SilverStripe Framework Installer",
+	"name": "silverstripe/email-debugger",
+	"description": "",
+	"type": "silverstripe-module",
+	"keywords": [
+		"silverstripe",
+		"email",
+		"debugger"
+	],
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Kavinda Harshana",
+			"email": "kavinda@silverstripers.com"
+		}
+	],
 	"require": {
-		"php": ">=5.3.3",
-		"silverstripe/cms": "3.6.x-dev",
-		"silverstripe/framework": "3.6.x-dev",
-		"silverstripe-themes/simple": "3.1.*"
-	},
-	"require-dev": {
-		"phpunit/PHPUnit": "~3.7@stable"
-	},
-	"minimum-stability": "dev"
+		"silverstripe/framework": "~3.1",
+		"silverstripe/cms": "~3.1",
+	}
 }
