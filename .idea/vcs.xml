@@ -2,12 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cms" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/compass" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/docsviewer" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/framework" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/reports" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/siteconfig" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/themes/simple" vcs="Git" />
   </component>
 </project>

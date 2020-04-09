@@ -6,6 +6,12 @@
  * Time: 12:59 PM
  */
 
+namespace Debugger;
+
+use SilverStripe\Forms\FieldList;
+use SilverStripe\Forms\TextField;
+use SilverStripe\ORM\DataExtension;
+
 class EmailDebuggerExtension extends DataExtension
 {
     private static $db = array(
