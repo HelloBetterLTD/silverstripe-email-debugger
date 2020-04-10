@@ -1,29 +1,29 @@
-## Overview
-
-Base project folder for a SilverStripe ([http://silverstripe.org](http://silverstripe.org)) installation. Required modules are installed via [http://github.com/silverstripe/recipe-cms](http://github.com/silverstripe/recipe-cms). For information on how to change the dependencies in a recipe, please have a look at [https://github.com/silverstripe/recipe-plugin](https://github.com/silverstripe/recipe-plugin). In addition, installer includes [theme/simple](https://github.com/silverstripe-themes/silverstripe-simple) as a default theme.
 
 ## Installation ##
 
-`composer create-project silverstripe/installer my-app`
+Composer:
 
-See [Getting Started](https://docs.silverstripe.org/en/4/getting_started/) for more information.
+```    
+"require": {
+         "silverstripe/email-debugger": "v4.x-dev"
+     },
+     "repositories": [
+     {
+         "type": "git",
+         "url": "https://github.com/SilverStripers/silverstripe-email-debugger.git"
+     }
+ ],
+ ```
+ 
+ ## Settings ##
+ 
+ Set Debug Email address using Site Config
+ 
+ ![Screenshot](http://u.cubeupload.com/KavindaHarshana/debugemail.png)
 
-## Bugtracker ##
+## Requirements ##
+SilverStripe version 4
 
-Bugs are tracked on github.com ([framework issues](https://github.com/silverstripe/silverstripe-framework/issues),
-[cms issues](https://github.com/silverstripe/silverstripe-cms/issues)).
-Please read our [issue reporting guidelines](https://docs.silverstripe.org/en/4/contributing/issues_and_bugs/).
+## Description ##
 
-## Development and Contribution ##
-
-If you would like to make changes to the SilverStripe core codebase, we have an extensive [guide to contributing code](https://docs.silverstripe.org/en/4/contributing/code/).
-
-## Links ##
-
- * [Changelogs](https://docs.silverstripe.org/en/4/changelogs/)
- * [Bugtracker: Framework](https://github.com/silverstripe/silverstripe-framework/issues)
- * [Bugtracker: CMS](https://github.com/silverstripe/silverstripe-cms/issues)
- * [Bugtracker: Installer](https://github.com/silverstripe/silverstripe-installer/issues)
- * [Forums](http://silverstripe.org/forums)
- * [Developer Mailinglist](https://groups.google.com/forum/#!forum/silverstripe-dev)
- * [License](./LICENSE)
+If your site on dev or test mode, all emails goes to the debug email that you added on SiteConfig and also if you have not set debug email address you can see those emails using the email.log file
