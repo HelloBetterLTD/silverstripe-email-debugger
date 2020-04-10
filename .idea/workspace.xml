@@ -1,79 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcb0e3f8-c9a5-4814-af28-97e65a103f58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/silverstripe-email-debugger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config/extensions.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Email/SSMailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/extensions/EmailDebuggerExtension.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mergesources.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.properties.default" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/changelog-definitions.default" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependent-modules.default" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/install-frameworkmissing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/_config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/code/Page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.mssql.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.postgresql.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.sqlite3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.teamcity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/siteconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/simple" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/editor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/form.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/css/typography.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/blueback.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/body_bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_left.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_left_on.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_right.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu1_right_on.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/menu2_arrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/ss_logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/ss_watermark.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/treeicons/home-file.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/treeicons/news-file.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/treeicons/search-file.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/images/welcome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tutorial/templates/Page.ss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/CreateChangelog.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/FindRepositoriesTask.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/GitStashTask.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/LoadModulesTask.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/SilverStripeBuildTask.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/UpdateTranslationsTask.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/_manifest_exclude" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/lib/new-project.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/lib/sources.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/lib/template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/lib/tools.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/new-project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/new-project.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/versions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.config" beforeDir="false" />
+    <list default="true" id="a8857412-c76a-40e9-bd04-2f68a50e4c71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,12 +14,24 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="355">
+                <caret line="43" selection-start-line="43" selection-end-line="43" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -165,13 +106,18 @@
             <path>
               <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
               <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
+              <item name="_config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
               <item name="silverstripe-email-debugger" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="Email" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="silverstripe-email-debugger" type="b2602c69:ProjectViewProjectNode" />
@@ -232,12 +178,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17554000" />
+    <option name="totallyTimeSpent" value="18747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25359577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981076" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,7 +197,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.7332242" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.14729951" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -296,94 +243,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cms/code/model/ErrorPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5061" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/cms/code/model/ErrorPage.php" />
     <entry file="file://$PROJECT_DIR$/mysite/_config/extensions" />
-    <entry file="file://$PROJECT_DIR$/siteconfig/code/model/SiteConfig.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-825">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/core/Object.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="742" column="41" selection-start-line="742" selection-start-column="36" selection-end-line="742" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/tests/email/MailerTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="e#113#118#0" expanded="true" />
-            <element signature="e#174#179#0" expanded="true" />
-            <element signature="e#240#245#0" expanded="true" />
-            <element signature="e#265#270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/email/Mailer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/simple/templates/Layout/Page.ss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/siteconfig/code/model/SiteConfig.php" />
+    <entry file="file://$PROJECT_DIR$/framework/core/Object.php" />
+    <entry file="file://$PROJECT_DIR$/framework/tests/email/MailerTest.php" />
+    <entry file="file://$PROJECT_DIR$/framework/email/Mailer.php" />
+    <entry file="file://$PROJECT_DIR$/themes/simple/templates/Layout/Page.ss" />
     <entry file="file://$PROJECT_DIR$/mysite/_config/extension.yml" />
     <entry file="file://$PROJECT_DIR$/mysite/code/extensions/EmailDebuggerExtension.php" />
-    <entry file="file://$PROJECT_DIR$/reports/_config.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/_config.php" />
     <entry file="file://$PROJECT_DIR$/mysite/_config/extensions.yml" />
-    <entry file="file://$PROJECT_DIR$/mysite/_config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/email/Email.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="105" column="48" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/code/extensions/EmailDebuggerExtension.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/control/Director.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="972" column="47" selection-start-line="972" selection-start-column="27" selection-end-line="972" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/_config/config.yml" />
+    <entry file="file://$PROJECT_DIR$/framework/email/Email.php" />
+    <entry file="file://$PROJECT_DIR$/test/code/extensions/EmailDebuggerExtension.php" />
+    <entry file="file://$PROJECT_DIR$/framework/control/Director.php" />
     <entry file="file://$PROJECT_DIR$/../pope-and-co/_ss_environment.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -398,60 +273,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/conf/ConfigureFromEnv.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1103" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_config/extensions.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/_config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_ss_environment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/code/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/email.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/code/Email/SSMailer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="98" column="39" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="39" />
+    <entry file="file://$PROJECT_DIR$/framework/conf/ConfigureFromEnv.php" />
+    <entry file="file://$PROJECT_DIR$/test/_config/extensions.yml" />
+    <entry file="file://$PROJECT_DIR$/mysite/_config.php" />
+    <entry file="file://$PROJECT_DIR$/test/_config.php" />
+    <entry file="file://$PROJECT_DIR$/_ss_environment.php" />
+    <entry file="file://$PROJECT_DIR$/mysite/code/Page.php" />
+    <entry file="file://$PROJECT_DIR$/logs/email.log" />
+    <entry file="file://$PROJECT_DIR$/test/code/Email/SSMailer.php" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="355">
+            <caret line="43" selection-start-line="43" selection-end-line="43" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
