@@ -7,11 +7,11 @@ Composer:
 "require": {
          "silverstripe/email-debugger": "v4.x-dev"
      },
-     "repositories": [
-     {
-         "type": "git",
-         "url": "https://github.com/SilverStripers/silverstripe-email-debugger.git"
-     }
+"repositories": [
+    {
+     "type": "git",
+     "url": "https://github.com/SilverStripers/silverstripe-email-debugger.git"
+    }
  ],
  ```
  
