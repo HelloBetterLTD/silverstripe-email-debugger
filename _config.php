@@ -1,8 +1,8 @@
 <?php
 
-use \SilverStripe\Core\Injector\Injector;
-use \SilverStripe\Control\Email\Email;
-use \Debugger\SSEmail;
+use SilverStripers\EmailDebugger\Mailer;
+use SilverStripe\Control\Email\Mailer as SSMailer;
 
-$mailer = new SSEmail();
-Injector::inst()->registerService($mailer, Email::class );
+$mailer = new Mailer();
+$mailer = $mailer->setSwiftMailer($swift = new Swift_Mailer(new Swift_MailTransport()));
+Injector::inst()->registerService($mailer, SSMailer::class);
