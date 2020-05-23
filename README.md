@@ -5,14 +5,8 @@ Composer:
 
 ```    
 "require": {
-         "silverstripe/email-debugger": "master"
- },
- "repositories": [
-     {
-         "type": "git",
-         "url": "https://github.com/SilverStripers/silverstripe-email-debugger.git"
-     }
- ],
+         "silverstripers/email-debugger": "master"
+ }
  ```
  
  ## Settings ##
@@ -22,7 +16,7 @@ Composer:
  ![Screenshot](http://u.cubeupload.com/KavindaHarshana/debugemail.png)
 
 ## Requirements ##
-SilverStripe version 3
+SilverStripe version 3 or SilverStripe Version 4
 
 ## Description ##
 
