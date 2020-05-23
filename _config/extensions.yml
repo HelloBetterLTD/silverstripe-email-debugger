@@ -1,3 +1,3 @@
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
-    - SilverStripers\EmailDebugger\SiteConfigExtension
+    - SilverStripers\EmailDebugger\Extension\SiteConfigExtension
