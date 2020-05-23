@@ -1,6 +1,6 @@
 <?php
 
-use SilverStripers\EmailDebugger\Mailer;
+use SilverStripers\EmailDebugger\Mailer\Mailer;
 use SilverStripe\Control\Email\Mailer as SSMailer;
 
 $mailer = new Mailer();
